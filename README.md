@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="./img.gif"/>
 
-- 🌱 I'm currently exploring Python, Playwright and Web Development
+- 🌱 Exploring Python, Playwright & Web Technologies
 - 💻 Interested in Backend Development, Browser Automation and Anti-Bot
 - 💬 email: dvhmmo110206@gmail.com
   
