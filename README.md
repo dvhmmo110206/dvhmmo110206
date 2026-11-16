@@ -4,7 +4,7 @@
 
 - 🌱 Exploring Python, Playwright & Web Technologies
 - 💻 Interested in Backend Development, Browser Automation and Anti-Bot
-- 💬 email: dvhmmo110206@gmail.com
+- 💬 Email: dvhmmo110206@gmail.com
   
 ### 🛠 Languages and Tools
 
